@@ -5,5 +5,5 @@ class CompletedTodoCounter {
 
   void decreaseCounter() => completed--;
 
-  void resetCounter() => completed = 2;
+  void resetCounter() => completed = 50;
 }
